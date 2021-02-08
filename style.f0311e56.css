@@ -1,2 +1,2 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");body{font-family:Roboto mono,sans-serif}h1{font-weight:500}h1,h2{margin:0}h2{font-weight:300}.header{position:absolute;top:10%;left:25%;display:flex;flex-direction:row}.header-photo{position:relative;border-radius:50%;width:300px;height:300px;overflow:hidden}.header-photo img{width:100%;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}.header-text{padding-top:100px;position:relative;width:400px}.header-text h2{color:grey}
-/*# sourceMappingURL=/style.f0311e56.css.map */
+/*# sourceMappingURL=style.f0311e56.css.map */
