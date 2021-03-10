@@ -43,4 +43,17 @@ h2 {
   color: gray;
 }
 
+#bios-work {
+  position: absolute;
+  top: 70%;
+  left: 25%;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.hidden {
+  display: none;
+}
+
 /*# sourceMappingURL=/style.97fcb138.css.map */
