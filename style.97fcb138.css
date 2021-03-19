@@ -15,8 +15,8 @@ h2 {
 
 .header {
   position: absolute;
-  top: 10%;
-  left: 25%;
+  top: 5rem;
+  left: 20rem;
   display: flex;
   flex-direction: row;
 }
@@ -45,8 +45,8 @@ h2 {
 
 #bios-work {
   position: absolute;
-  top: 60%;
-  left: 25%;
+  top: 26rem;
+  left: 20rem;
   display: flex;
   flex-direction: column;
   width: 50%;
